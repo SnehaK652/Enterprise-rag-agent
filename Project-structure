@@ -1,4 +1,4 @@
-enterprise-genai-copilot/
+enterprise-genai-copilot-free/
 │
 ├── app/
 │   ├── api/
@@ -15,10 +15,8 @@ enterprise-genai-copilot/
 ├── data/
 │   ├── raw/
 │   └── processed/
-│
 ├── docs/
 ├── tests/
 ├── requirements.txt
 ├── .env.example
-├── .gitignore
 └── README.md
