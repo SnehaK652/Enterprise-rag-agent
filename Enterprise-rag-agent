@@ -1,0 +1,24 @@
+enterprise-genai-copilot/
+│
+├── app/
+│   ├── api/
+│   ├── agents/
+│   ├── rag/
+│   ├── memory/
+│   ├── evals/
+│   ├── observability/
+│   ├── guardrails/
+│   └── config/
+│
+├── scripts/
+├── frontend/
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── docs/
+├── tests/
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── README.md
