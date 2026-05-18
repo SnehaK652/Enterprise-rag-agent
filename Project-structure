@@ -1,26 +1,23 @@
-enterprise-genai-copilot-free/
+enterprise-genai-copilot/
 │
 ├── app/
-│   ├── __init__.py
 │   ├── api/
-│   │   ├── __init__.py
-│   │   └── main.py
-│   └── rag/
-│       ├── __init__.py
-│       └── retriever.py
+│   ├── agents/
+│   ├── rag/
+│   ├── memory/
+│   ├── evals/
+│   ├── observability/
+│   ├── guardrails/
+│   └── config/
 │
 ├── frontend/
-│   └── streamlit_app.py
-│
 ├── scripts/
-│   └── ingest.py
-│
 ├── data/
 │   ├── raw/
 │   └── processed/
-│
 ├── docs/
 ├── tests/
+├── requirements.txt
 ├── .env.example
-├── README.md
-└── requirements.txt
+├── .gitignore
+└── README.md
